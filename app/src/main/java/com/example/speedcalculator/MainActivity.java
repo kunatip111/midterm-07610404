@@ -14,7 +14,7 @@ import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
     EditText dis;
-            EditText tim;
+    EditText tim;
     TextView res;
 
 
