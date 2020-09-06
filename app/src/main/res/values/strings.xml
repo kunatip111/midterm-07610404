@@ -9,4 +9,6 @@
     <string name="more_than_zreo">Time Must be greater than zero</string>
 
     <string name="speed_over">Speed is over limit!</string>
+
+    <string name="limit">Speed is over limit!</string>
 </resources>

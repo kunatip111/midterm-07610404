@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
                     if(result>80){
                         AlertDialog.Builder di = new AlertDialog.Builder(MainActivity.this);
                         di.setTitle("SPEED CALCULATOR");
-                        di.setMessage("Speed is over limit!");
+                        di.setMessage(R.string.limit);
                         di.setPositiveButton("OK" , null);
                         di.show();
                     }
@@ -87,7 +87,7 @@ public class MainActivity extends AppCompatActivity {
                     if(result>80){
                         AlertDialog.Builder di = new AlertDialog.Builder(MainActivity.this);
                         di.setTitle("SPEED CALCULATOR");
-                        di.setMessage("Speed is over limit!");
+                        di.setMessage(R.string.limit);
                         di.setPositiveButton("OK" , null);
                         di.show();
                     }
